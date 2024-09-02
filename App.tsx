@@ -1,6 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { NavigationContainer } from "@react-navigation/native";
-import { StyleSheet } from "react-native";
 
 import HomeDetails from "./app/screens/HomeDetails";
 import HomeList from "./app/screens/HomeList";
