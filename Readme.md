@@ -30,3 +30,4 @@ To run on physical device, you will get a qr code after running the above comman
 -   Notifications permission logic has been added to HomeDetails page for now, for a production app, it would have been on the mounting of the app.
 -   api has also been kept simple, for a production, We might be using an api layer that would have interceptors, default handlers, we might use react query.
 -   avoided any complex state management as it wasn't required here.
+-   Tested on iOS simulator and iOS device
